@@ -1,1 +1,1 @@
-angular.module('angularpic', []);
+angular.module('angularpic', ['minhasDiretivas']);
